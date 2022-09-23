@@ -1,0 +1,10 @@
+{
+    "editor.codeActionsOnSave": {
+      "source.fixAll": true
+    },
+    "eslint.options": {
+      "rules": {
+        "prettier/prettier": "warn" // Locally report Prettier formatting as warnings.
+      }
+    }
+  }
